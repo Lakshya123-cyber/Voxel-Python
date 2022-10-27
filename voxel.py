@@ -5,7 +5,7 @@ import math
 vec2, vec3 = pygame.math.Vector2, pygame.math.Vector3
 
 RES = WIDTH, HEIGHT = 1440, 800
-NUM_STARS = 100
+NUM_STARS = 1500
 CENTER = vec2(WIDTH // 2, HEIGHT // 2)
 COLORS = 'red green blue orange purple cyan'.split()
 Z_DISTANCE = 40
